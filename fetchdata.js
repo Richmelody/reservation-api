@@ -23,4 +23,5 @@ function fetchAPI(date) {
 
   return shuffledTimes;
 }
+export default fetchAPI; // Export the function
 
